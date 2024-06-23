@@ -1,3 +1,12 @@
+This project is for the following task.
+
+#install the package:
+npm install
+
+#start the server:
+npm run dev
+
+
 # Quantinuum - Frontend Interview Question
 
 ## Requirements

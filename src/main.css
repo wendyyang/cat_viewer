@@ -1,0 +1,50 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer {
+    body {
+        @apply bg-background p-16
+    }
+}
+
+.App {
+    text-align: center;
+  }
+
+.tag_list {
+    float: left;
+    width: 20%;
+}
+
+.cat_list {
+    float: left;
+    width: 40%;
+}
+
+.cat {
+    float: left;
+    width: 40%;
+}
+h1 {
+    text-align: center;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+h2 {
+    padding-bottom: 20px;
+    font-size:large;
+}
+
+.add_text {
+    padding: 20px;
+    width: auto;
+}
+
+.input {
+    background-color: aliceblue;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    color: #000;
+}

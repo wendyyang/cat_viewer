@@ -7,8 +7,6 @@ npm install
 npm run dev
 
 
-# Quantinuum - Frontend Interview Question
-
 ## Requirements
 - Use React + Typescript (this repo template will help)
 - Use Quantinuum UI component library
